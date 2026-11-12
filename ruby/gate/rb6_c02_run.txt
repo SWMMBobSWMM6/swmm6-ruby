@@ -1,0 +1,1 @@
+rb6_c02: 12 models  PASS 12

@@ -1,0 +1,14 @@
+[
+{
+"id": "60dda48e3fd9",
+"path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/27_Subs_Horton.inp",
+"status": "PASS",
+"sec": 739.649,
+"rc": 0,
+"first_rpt_diff": null,
+"stderr": "",
+"ref_rc": 0,
+"rpt_sha256": "0adf9af1a869925502b5185e6b6bf89c0cdc1e95910e37bcb45b784918b6437b",
+"out_sha256": "63d5c0e5aebc24c2ef29afb57c0e52aa541e86b79789765373e02191ead16706"
+}
+]

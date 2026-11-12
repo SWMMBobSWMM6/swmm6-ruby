@@ -1,0 +1,9 @@
+#!/bin/bash
+# runswmm6 - the Ruby SWMM6 engine's command line for the gate: ruby/runswmm6 model.inp r.rpt [r.out]
+# Runs ruby/runswmm6.rb with --disable-gems (the runtime needs only Ruby's standard library: fiddle and etc), and a
+# large VM and machine stack for the engine's thread (Ruby's defaults, 1 MiB, are smaller than .NET's).
+# Written by Claude (Anthropic) for Robert Dickinson's SWMM6 ports; see AI-USE.md.
+HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+export RUBY_THREAD_VM_STACK_SIZE=${RUBY_THREAD_VM_STACK_SIZE:-268435456}
+export RUBY_THREAD_MACHINE_STACK_SIZE=${RUBY_THREAD_MACHINE_STACK_SIZE:-268435456}
+exec ruby --disable-gems "$HERE/runswmm6.rb" "$@"

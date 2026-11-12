@@ -1,0 +1,18 @@
+[
+ {
+  "id": "77e00bc268b0",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/SCANLON.inp",
+  "status": "TIMEOUT+RPTDIFF+OUTDIFF",
+  "sec": 1800.111,
+  "rc": "timeout",
+  "first_rpt_diff": [
+   1001,
+   "len 2983",
+   "len 1001"
+  ],
+  "stderr": "",
+  "ref_rc": 0,
+  "rpt_sha256": "c3af265ca40e850d1121d8cbc0a9851e05f35d991053b29e3964557c70e31a36",
+  "out_sha256": "9525369442abe946ac807c22c6945827f22ac3e14b6586efd19ff48c85fedad8"
+ }
+]

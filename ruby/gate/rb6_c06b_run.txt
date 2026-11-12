@@ -1,0 +1,1 @@
+rb6_c06b: 2 models  PASS 2

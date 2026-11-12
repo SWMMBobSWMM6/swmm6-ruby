@@ -1,0 +1,14 @@
+[
+ {
+  "id": "xa309cbb302c",
+  "path": "/tmp/claude-0/-home-claude/9f3dde4c-f353-52c4-b476-e410dd8d4e21/scratchpad/swmm6/eng/tests/parity/corpus/decks/sdm_fv_o2.inp",
+  "status": "PASS",
+  "sec": 650.665,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": "",
+  "ref_rc": 0,
+  "rpt_sha256": "4c0c5b93b7e846a3ff11dddb507124e0621ac9c50c4d693d7dfb5f53bbbfce9f",
+  "out_sha256": "3943f81ddf0730b18d97fda9a1865866cc0fdfc531dba54dc90f7e77126b7402"
+ }
+]

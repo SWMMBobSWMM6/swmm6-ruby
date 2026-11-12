@@ -1,0 +1,18 @@
+   2130  range for
+   1084  ptr over array element
+    631  inline max
+    438  object initializer
+    398  lambda with statements
+    358  inline min
+    245  range for with a field bound
+    165  void expression lambda
+    137  switch as case/when
+    103  lambda binding loop variables
+     65  arguments spilled for order
+     56  inline clamp
+     35  base method called directly
+     32  assignment as a value (hoisted)
+      4  switch wrapper
+      3  conditional with statements
+      3  logical with statements
+      1  hidden field (renamed) msg

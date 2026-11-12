@@ -1,0 +1,1 @@
+rb6_c05b fcdbc4886a73 /home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/72_H&H_Elements(2).inp: stopped after 1800 s; .out 2351 of 440275 bytes written (0.5%), the first 2351 identical to the reference (all written bytes)

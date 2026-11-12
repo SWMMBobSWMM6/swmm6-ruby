@@ -1,0 +1,98 @@
+[
+ {
+  "id": "54c7f7b0dcdb",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/10000FootSurchargeDepth.inp",
+  "status": "PASS",
+  "sec": 730.713,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": "",
+  "ref_rc": 0,
+  "rpt_sha256": "8861ba2404d8634e26ef09b10cabc258943eb744293bf8e391ac6832fa3c1b33",
+  "out_sha256": "a5be4cb0ec3ce8ac2e34e7878727e665b7e6d0a703e57d48d6932d78a028e277"
+ },
+ {
+  "id": "c61e91bbee6f",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/429_H&H_Elements.inp",
+  "status": "PASS",
+  "sec": 559.83,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": "",
+  "ref_rc": 0,
+  "rpt_sha256": "a0f96ea93223377348d018001cdd7747c9d39897611366bf7d11d0d9fb3cd1c3",
+  "out_sha256": "e496c34cf237c7b572e3cae8e2f182a990292461c673eeb2edd8ef768209e5ac"
+ },
+ {
+  "id": "4382da88dc6a",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/siphon_larger_SW5.inp",
+  "status": "PASS",
+  "sec": 32.168,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": "",
+  "ref_rc": 0,
+  "rpt_sha256": "d685ba54aee3abc3ba49d144228d17e1f3528571def824d0be7061f72358aa96",
+  "out_sha256": "46a0e2b3adabd12ae36eaaa0a48ed955af3f1d65e10e0722173be1f74c227a12"
+ },
+ {
+  "id": "e619e57eddb1",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydraulics/HRSDtest_cim_7.inp",
+  "status": "PASS",
+  "sec": 620.566,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": "",
+  "ref_rc": 0,
+  "rpt_sha256": "e8b75f77eaff7d9de83f733db387bf7c9ef08c2690206fcf8fcbf20e4a2cd6fe",
+  "out_sha256": "9071c7a8d79cb45f33f7095b8843d78d82baaaeae3f7a54b88d4e7a1c7c56ae6"
+ },
+ {
+  "id": "10245dda6972",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/292_Storage_Nodes_200_Subs.inp",
+  "status": "PASS",
+  "sec": 788.668,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": "",
+  "ref_rc": 0,
+  "rpt_sha256": "319b21de5dc7dd26c181970659d516438ab1e1170a69be3df3eeb04bc4c3862f",
+  "out_sha256": "292b276ff32df32a5a463e4ace307252ae03e5139baff4bc2f78a50baca68e81"
+ },
+ {
+  "id": "0046cb3452b3",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/short_trap_SW5.inp",
+  "status": "PASS",
+  "sec": 1094.626,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": "",
+  "ref_rc": 0,
+  "rpt_sha256": "4b8b3c4ff5de8ad17c5ea8c9d5c0f2092198408f5a02795feaebf38eed4ea646",
+  "out_sha256": "b1d3b2ad1d3d4ac59a19731f021f84bc78eff2ce32c6d586d3a9115fb0dbd7ca"
+ },
+ {
+  "id": "5db30c611edb",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/user5_sub_patterns.inp",
+  "status": "PASS",
+  "sec": 580.903,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": "",
+  "ref_rc": 0,
+  "rpt_sha256": "746932a5d8fc3c9aa6091572f525d351e605012a658efcc879302bf5b7461b42",
+  "out_sha256": "6f93a3931a37a1fae4c73a0c34b8f36dd9ab712385fc3332e0086ad2e75b564a"
+ },
+ {
+  "id": "790d9c3d1816",
+  "path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/LID/w_wo_BC_2Subcatchments_Mod_GA.inp",
+  "status": "PASS",
+  "sec": 1.878,
+  "rc": 0,
+  "first_rpt_diff": null,
+  "stderr": "",
+  "ref_rc": 0,
+  "rpt_sha256": "8f9739c21b0f3f3627c768252223e617084f4b5b963f8d3964a0247851e8ee55",
+  "out_sha256": "f1067d540eb241002197e30546b245abd271c41ea7142e90c8694e3a338b67b7"
+ }
+]

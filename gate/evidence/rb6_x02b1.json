@@ -1,0 +1,14 @@
+[
+{
+"id": "xa309cbb302c",
+"path": "openswmm.engine/tests/parity/corpus/decks/sdm_fv_o2.inp",
+"status": "PASS",
+"sec": 650.665,
+"rc": 0,
+"first_rpt_diff": null,
+"stderr": "",
+"ref_rc": 0,
+"rpt_sha256": "4c0c5b93b7e846a3ff11dddb507124e0621ac9c50c4d693d7dfb5f53bbbfce9f",
+"out_sha256": "3943f81ddf0730b18d97fda9a1865866cc0fdfc531dba54dc90f7e77126b7402"
+}
+]

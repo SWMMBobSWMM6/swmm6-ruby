@@ -1,0 +1,14 @@
+[
+{
+"id": "36d039d18ca7",
+"path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/22_Subs.inp",
+"status": "PASS",
+"sec": 453.846,
+"rc": 0,
+"first_rpt_diff": null,
+"stderr": "",
+"ref_rc": 0,
+"rpt_sha256": "b49b4c2583d22de3424f1c31f698908c9f9656a276a38c1ca85e8939221d7f41",
+"out_sha256": "07904706b4058aa52b66e566317cb80d295f3ccbbcde009fdacaaf1d4bcffece"
+}
+]

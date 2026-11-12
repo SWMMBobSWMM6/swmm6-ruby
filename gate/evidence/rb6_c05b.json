@@ -1,0 +1,18 @@
+[
+{
+"id": "fcdbc4886a73",
+"path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/72_H&H_Elements(2).inp",
+"status": "TIMEOUT+RPTDIFF+OUTDIFF",
+"sec": 1800.109,
+"rc": "timeout",
+"first_rpt_diff": [
+1534,
+"len 1917",
+"len 1534"
+],
+"stderr": "",
+"ref_rc": 0,
+"rpt_sha256": "71fc6b6f70ca13e187e9baff159b80df1003a95d061b54b32253c8c045faa2e3",
+"out_sha256": "0706899a8aec9b45ad3953759a05a40c86dd4e87cf3ec557a96daaeef0130512"
+}
+]

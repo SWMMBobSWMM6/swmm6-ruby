@@ -1,0 +1,14 @@
+sort cases: 6447
+  sort, stable_sort, partial_sort (O), libstdc++ and Ruby: identical
+  sort, stable_sort, partial_sort (D), libstdc++ and Ruby: identical
+  sort, stable_sort, partial_sort (I), libstdc++ and Ruby: identical
+  sort, stable_sort, partial_sort (L), libstdc++ and Ruby: identical
+hash lines: 167
+  unordered_map / unordered_set order and std::hash, libstdc++ and Ruby: identical
+streams section a: 2963 lines
+  C++ and Ruby: identical
+streams section b: 86 lines
+  C# and Ruby: identical
+streams section c: cur at8 300000 tellg 12 g---
+  C++ and Ruby: identical
+  C# and Ruby: identical

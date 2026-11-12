@@ -1,0 +1,14 @@
+[
+{
+"id": "17bc23add21e",
+"path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/CN_Horton.inp",
+"status": "PASS",
+"sec": 770.31,
+"rc": 0,
+"first_rpt_diff": null,
+"stderr": "",
+"ref_rc": 0,
+"rpt_sha256": "2ece79f30e4e6bd9f736f18381e6e9ebc6b44104a00841652e43842b8a7783db",
+"out_sha256": "696c114805a66c8d1b3fd3b0e0cea361316c071eb9c147ed956ec04c0b93a6f3"
+}
+]

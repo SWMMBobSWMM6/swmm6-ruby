@@ -1,0 +1,8 @@
+queued 2026-11-10T20:23:31-05:00 engine /dev/shm/rb6_eng/d8b1363/ruby/runswmm6_saves.sh
+started 2026-11-10T20:34:34-05:00
+killed 2026-11-10T21:03:00-05:00 (container restart after the last record at 21:03; /dev/shm and the outputs emptied; the partial gate/results/rb6_c02.jsonl, 2,226 bytes, removed; c02 run again from the start)
+queued 2026-11-10T21:13:11-05:00 engine /dev/shm/rb6_eng/d8b1363/ruby/runswmm6_saves.sh
+ended 2026-11-10T21:46:31-05:00 rc=1
+queued 2026-11-10T21:46:48-05:00 engine /dev/shm/rb6_eng/d8b1363/ruby/runswmm6_saves.sh
+started 2026-11-10T21:59:25-05:00
+ended 2026-11-10T23:09:38-05:00 rc=0

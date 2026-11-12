@@ -1,0 +1,7 @@
+# Ruby / Python speed, measured 2026-11-10 on three corpus decks run back to back on the same machine (2 CPUs, another
+# port's gate running at the same time), each engine niced, wall-clock seconds; both .out files byte-identical to the
+# reference and to each other. Used by ruby/gate/plan_chunks.py (RATIO 1.15).
+# id            deck                                   ruby    python   ruby/python
+9c77548f873e    EXAM2_with_numerical_problem_SW5.inp     12.9    11.2     1.16
+8eeb8aafff0c    25_Subcatchments_CN_Infiltration.inp     20.7    18.2     1.14
+d66ef99143d1    small_hydraulic_linear_SI_Units.inp      37.5    38.8     0.97

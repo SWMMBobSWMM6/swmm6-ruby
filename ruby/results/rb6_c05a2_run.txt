@@ -1,0 +1,3 @@
+rb6_c05a2: 1 models  TIMEOUT+RPTDIFF+OUTDIFF 1
+  TIMEOUT+RPTDIFF+OUTDIFF Hydrology/SCANLON.inp  (1001, 'len 2983', 'len 1001')
+rb6_c05a2 77e00bc268b0 /home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/SCANLON.inp: stopped after 1800 s; .out 42334342 of 78975850 bytes written (53.6%), the first 42334342 identical to the reference (all written bytes)

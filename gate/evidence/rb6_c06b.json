@@ -1,0 +1,26 @@
+[
+{
+"id": "2bd2002b905c",
+"path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/Hydrology/17_Sub_90_Link_USA_Units.inp",
+"status": "PASS",
+"sec": 1175.597,
+"rc": 0,
+"first_rpt_diff": null,
+"stderr": "",
+"ref_rc": 0,
+"rpt_sha256": "16ba933c2ac6d40ba91ac4b9aee2e12a9beb2bcf7bdc038c09b39793f5ca8786",
+"out_sha256": "74f6c18b306ba1ce145e7019b1a31590ff2056ebcf647712387c5aec7e529a9d"
+},
+{
+"id": "a13e9d5589fb",
+"path": "/home/claude/swmmbobswmm6/1729-swmm5-models-2030/EPA/attenuation_DW_High_CE.inp",
+"status": "PASS",
+"sec": 1432.974,
+"rc": 0,
+"first_rpt_diff": null,
+"stderr": "",
+"ref_rc": 0,
+"rpt_sha256": "15163716b7cbf9f7dc99d04531e9c7081f2cb8125562b0107e09f81b2a59dd80",
+"out_sha256": "cdbee07e807f96faacfcd2f461b4d8ba2a86d202adaa9e7a3c0f599385a22e62"
+}
+]

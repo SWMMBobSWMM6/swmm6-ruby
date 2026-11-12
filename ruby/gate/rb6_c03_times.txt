@@ -1,0 +1,2 @@
+queued 2026-11-10T23:09:53-05:00 engine /dev/shm/rb6_eng/d8b1363/ruby/runswmm6_saves.sh
+killed 2026-11-10T23:38:00-05:00 (container restart while still queued, before the lock was taken; nothing run; c03 split into c03a and c03b and run again)

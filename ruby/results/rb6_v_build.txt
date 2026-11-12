@@ -1,0 +1,13 @@
+== clean copy of b4bb6ac in /dev/shm/rb6_v
+== the translator: tools/cs2x/build_rb.sh
+== the engine, regenerated from cs/gen into /dev/shm/rb6_v/regen and compared with ruby/gen/engine.rb and ruby/cs2rb_*.txt
+wrote engine.rb (193058 lines), 592 runtime names, 0 TODO kinds, 0 TODO sites
+ruby/gen/engine.rb: 193058 lines, byte-identical to the commit
+ruby/cs2rb_runtime.txt: 594 lines, byte-identical to the commit
+ruby/cs2rb_todo.txt: 0 lines, byte-identical to the commit
+ruby/cs2rb_stats.txt: 18 lines, byte-identical to the commit
+== the generated runtime file, written again by ruby/make_primelist.sh
+ruby/cpp/primelist.rb: byte-identical to the commit
+== syntax
+Syntax OK
+ruby 3.3.6 (2024-11-05 revision 75015d4c1f) [x86_64-linux]
